@@ -20,6 +20,6 @@
 - 사람의 Pose를 수십 개의 Vector으로 구분.
 - 각 부위 별로 3차원 Vector를 모델링함.
 - 3차원 벡터를 분포화시킬 수 있는 FB8-Distribution을 사용.
-
+- 측정된 Rare Pose들은 아래의 링크 참고 바람(https://hanchanghun.github.io/pose-rareness-vis/)
 
 
